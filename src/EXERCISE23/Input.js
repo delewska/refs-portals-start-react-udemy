@@ -11,9 +11,9 @@
 //   }
 
 //solution
-import { forwardRef } from "react";
+import React from "react";
 
-const Input = forwardRef(function Input({ label, type }, ref) {
+const Input = React.forwardRef(function Input({ label, type }, ref) {
   // Todo: Accept forwarded ref and "connect" it to the <input> element
   return (
     <p className="control">

@@ -1,3 +1,12 @@
+!!!!!!! DONT WORK ON MY PROJECT PLISSSSSS GUYS !!!!!!!!!!!!!!!!!!!!!!!
+I WILL DELETE YOUR BRANCHES
+
+- it is my private DELEWSKA!!!!!!!!!! DONT WORK ON MY PROJECT PLISSSSSS !!!!!!!!!!!!!!!!!!!!!!!
+- it is my private DELEWSKA!!!!!!!!!! DONT WORK ON MY PROJECT PLISSSSSS !!!!!!!!!!!!!!!!!!!!!!!
+- it is my private DELEWSKA!!!!!!!!!! DONT WORK ON MY PROJECT PLISSSSSS !!!!!!!!!!!!!!!!!!!!!!!
+- it is my private DELEWSKA!!!!!!!!!! DONT WORK ON MY PROJECT PLISSSSSS !!!!!!!!!!!!!!!!!!!!!!!
+- it is my private DELEWSKA!!!!!!!!!! DONT WORK ON MY PROJECT PLISSSSSS !!!!!!!!!!!!!!!!!!!!!!!
+
 In earlier versions of this course, this section also introduced the concept of "React Fragments" (<Fragment> ... </Fragment> or <> ... </>).
 
 The newer version of the course already introduced this concept in the "React Essentials" sections.

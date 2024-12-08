@@ -1,3 +1,7 @@
+links:
+https://react.dev/reference/react/useImperativeHandle
+https://react.dev/reference/react/forwardRef
+
 Exposing Component APIs
 Your working on a part of an application that contains a form which should be resettable from outside that form.
 
